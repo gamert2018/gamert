@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.gamert.first.gamert">
+    package="com.example.sammiidelaney.gamert">
 
     <application
         android:allowBackup="true"
@@ -16,6 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".seach" />
+        <activity android:name="com.gamert.first.gamert.profile"></activity>
     </application>
 
 </manifest>

@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".seach" />
-        <activity android:name="com.gamert.first.gamert.profile"></activity>
+        <activity android:name="com.gamert.first.gamert.profile" />
+        <activity android:name=".Login_Page"></activity>
     </application>
 
 </manifest>

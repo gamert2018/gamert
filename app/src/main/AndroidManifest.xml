@@ -30,7 +30,8 @@
         <activity android:name=".New_Page" />
         <activity android:name=".Explore_Page" />
         <activity android:name=".Register_Page" />
-        <activity android:name=".Main_Page"></activity>
+        <activity android:name=".Main_Page" />
+        <activity android:name="com.example.jesuschav.gamert.Forum_Post_Page"></activity>
     </application>
 
 </manifest>
